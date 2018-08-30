@@ -1,3 +1,5 @@
-Danas je četvrtak i testiramo git deploy sa lokalne mašine na GitHub i onda na VPS.
+﻿Danas je četvrtak i testiramo git deploy sa lokalne mašine na GitHub i onda na VPS.
 
 Novi redak.
+
+treci redak.
